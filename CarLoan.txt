@@ -1,1 +1,2 @@
 Car Loan Details
+Interest Rate: 7.5%
