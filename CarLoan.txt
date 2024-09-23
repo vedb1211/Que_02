@@ -1,2 +1,3 @@
 Car Loan Details
 Interest Rate: 7.5%
+Loan Tenure: 5 years
